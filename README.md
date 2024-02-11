@@ -36,3 +36,9 @@ To make the insurance claims for car damage faster we have used CNN to classify 
 * Trained Yolov3 to detect type of damage in Car Dent and Scratch, Smash, Glass and Light Broken.
 * Densenet trained on all layers using Original Data + Augmentation 1 gave best performance over other models.
 * Used Flask and Streamlit to make a web app on local machine.
+
+
+https://github.com/Charishma-Bailapudi/Test/assets/98004429/207686ab-f889-46db-9a1e-be7ab1af1606
+
+
+  
