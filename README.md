@@ -28,11 +28,11 @@ To make the insurance claims for car damage faster we have used CNN to classify 
 * Exploratory Data Analysis of Data using Matplotlib and Seaborn.
 * Since the dataset on car damage are rare I have used two types of Data Augmentation to synthetically enlarge the dataset.
 * Created three types of data folders Orginal Data, Original Data + Augmentation 1, Original Data + Augmentation 2.
-* Used Pretrained models like VGG16, VGG19, Densenet, Resnet without FC layers and added my own configuration of FC layers (1 Flatten layer,2 Full Connection layers and 1 Dropout layer).
+* Used Pretrained model Densenet without FC layers and added my own configuration of FC layers (1 Flatten layer,2 Full Connection layers and 1 Dropout layer).
 * Trained two types of model for each pretrained model.
   * Training only FC layers
   * Training All layers.
 * Used Logistic Regression as baseline model. Trained around 108 models.
 * Trained Yolov3 to detect type of damage in Car Dent and Scratch, Smash, Glass and Light Broken.
 * Densenet trained on all layers using Original Data + Augmentation 1 gave best performance over other models.
-* Used Flask and Ngrok to make a web app on local machine.
+* Used Flask and Streamlit to make a web app on local machine.
