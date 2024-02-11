@@ -1,5 +1,7 @@
 # Car Damage Assessment using Densenet
 
+![Car Damage Assesment](relative/path/to/image.png)
+
 ## Overview:
 In Car Insurance industry, a lot of money is being wasted on Claims leakage. Claims leakage is the gap between the optimal and actual settlement of a claim. Visual inspection and validation are being used to reduce claims leakage. But doing inspection might take a long time and result in delaying of claims processing. An automated system for doing inspection and validation will be of great help in speeding up the process.
 
